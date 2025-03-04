@@ -1,4 +1,4 @@
-## Leif Johannesson
+# Leif Johannesson
 
 [My resume](https://docs.google.com/document/d/1lwQBg_FuuACZvSnHIJ3o34GddLe9ElhGt7qHqYBQVyU/edit?usp=sharing)
 
