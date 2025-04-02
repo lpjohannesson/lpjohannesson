@@ -5,6 +5,6 @@
 Hello, I'm a software developer and computer science student from Canada. This page showcases a selection of school assignments and hobby projects I've created using a variety of technologies.
 
 ## Project Highlights
+- [FullStackForum (React/Tailwind/Node.JS)](https://github.com/lpjohannesson/full-stack-forum)
 - [Eyeballin' It (GDScript/Godot Engine with Android)](https://github.com/lpjohannesson/eyeballin-it)
 - [RobotGame (C# with MonoGame)](https://github.com/lpjohannesson/robot-game)
-- [FullStackForum (React/Tailwind/Node.JS)](https://github.com/lpjohannesson/full-stack-forum)
